@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">lessonNavController</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="this_is_fragment_1">Hello to first fragment</string>
+    <string name="this_is_fragment_2">Hello to second fragment</string>
+    <string name="this_is_fragment_3">Hello to third fragment</string>
+    <string name="button_first_to_second">To second</string>
+    <string name="button_first_to_third">To Third</string>
+    <string name="button_second_first">To First</string>
+    <string name="button_third_first">To First</string>
+</resources>
